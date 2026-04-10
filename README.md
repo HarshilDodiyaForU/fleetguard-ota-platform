@@ -162,8 +162,7 @@ See **[DEPLOYMENT.md](./DEPLOYMENT.md)** for step-by-step **Render**, **Railway*
 ---
 
 ## Screenshots
-
-_Add screenshots here (Dashboard, Fleet, Rollout, Risk) for your GitHub or portfolio._
+will upload soon
 
 ---
 
@@ -178,9 +177,7 @@ _Add screenshots here (Dashboard, Fleet, Rollout, Risk) for your GitHub or portf
 ---
 
 ## Author
-
-**Your name / team** — update this section for your repository or résumé.
-
+Harshil Dodiya ,IAR GAndhinagar
 ---
 
 ## License
